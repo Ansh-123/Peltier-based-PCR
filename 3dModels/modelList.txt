@@ -1,0 +1,3 @@
+There are two 3d printable models here, one for holing the fan and one for the peltier module.
+I recommend placing a bit of cardboard between the back of the peltier module and heatsink to avoid melting the pla. 
+I find that without the fan, your peltier modlue will likely overheat without a large heatsink.
