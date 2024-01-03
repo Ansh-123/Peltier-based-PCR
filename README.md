@@ -9,4 +9,4 @@ The main hardware for this project is an esp32 (I used a esp32 cam as I had one 
 
 In the future I hope to design PCB and implement a heated lid.
 
-If you would like to learn more about the design and howw to make one yourself, take a look ant the instructables (at the moment not yet ready).
+If you would like to learn more about the design and how to make one yourself, take a look at the instructables (at the moment not yet ready).
