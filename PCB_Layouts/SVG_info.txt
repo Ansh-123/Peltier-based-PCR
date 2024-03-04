@@ -1,0 +1,1 @@
+THe SVG Kicad outputs is partially corrupted, but can be viewed by some svg viewers. https://codebeautify.org/svg-viewer works well.
