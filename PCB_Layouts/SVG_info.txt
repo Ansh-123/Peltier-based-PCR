@@ -1,1 +1,3 @@
 THe SVG Kicad outputs is partially corrupted, but can be viewed by some svg viewers. https://codebeautify.org/svg-viewer works well.
+
+Also note that the Esp-cam board has its pins inverted on the svg, and is somthing I need to fix.
